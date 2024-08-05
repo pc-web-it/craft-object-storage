@@ -1,5 +1,5 @@
 {
-  "name": "behinddesign/craft-object-storage",
+  "name": "pc-web-it/craft-object-storage",
   "description": "A Craft 5 plugin that integrates with most S3 compatible Object Storage. Includes custom host / path or subdomain connection types",
   "type": "craft-plugin",
   "keywords": [
@@ -14,6 +14,10 @@
     {
       "name": "behinddesign",
       "homepage": "https://www.behinddesign.co.uk"
+    },
+    {
+      "name": "pc-web-it",
+      "homepage": "https://www.pc-web.at"
     }
   ],
   "support": {
